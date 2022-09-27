@@ -1,1 +1,1 @@
-nodestockapp-production.up.railway.app
+https://nodestockapp-production.up.railway.app
